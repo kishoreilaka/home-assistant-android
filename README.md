@@ -1,5 +1,7 @@
 # :iphone: Home Assistant Companion for Android  [![Build Status](https://travis-ci.com/home-assistant/home-assistant-android.svg?branch=master)](https://travis-ci.com/home-assistant/home-assistant-android)
 
+Updated fior fun
+
 ## Setup Development Environment
 
 - Download and install [Android Studio](https://developer.android.com/studio)
